@@ -1,0 +1,8 @@
+D:\day4\day4-ps4\day4-ps4\bin\Debug\day4-ps4.exe.config
+D:\day4\day4-ps4\day4-ps4\bin\Debug\day4-ps4.exe
+D:\day4\day4-ps4\day4-ps4\bin\Debug\day4-ps4.pdb
+D:\day4\day4-ps4\day4-ps4\obj\Debug\day4-ps4.csproj.AssemblyReference.cache
+D:\day4\day4-ps4\day4-ps4\obj\Debug\day4-ps4.csproj.SuggestedBindingRedirects.cache
+D:\day4\day4-ps4\day4-ps4\obj\Debug\day4-ps4.csproj.CoreCompileInputs.cache
+D:\day4\day4-ps4\day4-ps4\obj\Debug\day4-ps4.exe
+D:\day4\day4-ps4\day4-ps4\obj\Debug\day4-ps4.pdb
